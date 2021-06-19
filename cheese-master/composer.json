@@ -1,0 +1,16 @@
+{
+    "name": "cheese-framework/cheese",
+    "description": "Cheese is a lightweight PHP framework",
+    "type": "project",
+    "require": {
+        "cheese-framework/cheese": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caleb",
+            "email": "cletusokoys@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}

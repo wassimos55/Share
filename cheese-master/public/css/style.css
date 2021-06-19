@@ -1,0 +1,20 @@
+.cheese {
+    font-size: 92px;
+    margin-top: 200px;
+    font-weight: 300; 
+}
+
+pre {
+    font-size: 17px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+code {
+	background: #333333;
+	padding: 15px;
+	color: #fff !important;
+	border-radius: 3px;
+	display: inline-block;
+	margin: 5px;
+}
+

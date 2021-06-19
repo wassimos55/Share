@@ -1,0 +1,11 @@
+*.log
+*.idea
+*.github
+*public/.project
+*public/.buildpath
+/nbproject/private/
+nbproject
+/nbproject
+/vendor/
+.github
+/.github
